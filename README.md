@@ -1,3 +1,3 @@
 # Hi! Welcome to my repository :)
-## Section 7 - Part 2
+## Section 8
 Programming Course Activities for Python: From Basic to Advanced
